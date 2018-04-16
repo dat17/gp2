@@ -14,6 +14,8 @@
 - 体験講義用のネットゲーム例の動作確認
 - [Trello](https://trello.com/)を使ってみる
   - https://trello.com/guide/getting-started.html
+- コード共有方法の確認と、コード紹介例
+  - GitHubでいいか
 
 # リンク
 - [Trello](https://trello.com/)
