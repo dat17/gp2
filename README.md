@@ -8,7 +8,10 @@
 
 ## 予定
 - [シラバス](syllabus.md)の確認
-- 春休み中の話題
+- ちょっとインストール
+  - Chromeに https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?hl=ja
+  - [Unity Hub](https://blogs.unity3d.com/jp/2018/01/24/streamline-your-workflow-introducing-unity-hub-beta/)
+- 春休み活動の報告
   - [第2回Unity1週間ゲームジャムミートアップに参加](http://lycoris102.hatenablog.com/entry/2018/03/19/085609)
   - [Unityもくもく勉強会×2DGameKit会](https://weeyble-game.connpass.com/event/83688/)
   - [あたりの動画](https://dat17.github.io/gp2/images/atari.html)
