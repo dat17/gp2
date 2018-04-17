@@ -8,8 +8,8 @@
 - [シラバス](syllabus.md)の確認
 - 春休み中の話題
   - 第2回Unity1週間ゲームジャムミートアップに参加
-  - 「あたり」の作品
-  - Voxelorer
+  - [あたり](https://am1.jp/games/atari-2dgk/2dgk0417.mp4)
+  - [Voxelorer](https://am1.jp/games/voxelorer/)
   - [Phaser3のドキュメント作成](http://am1tanaka.hatenablog.com/entry/2018/04/10/221101)
   - 体験講義用のネットワークゲーム
   - [デジゲー博](http://digigame-expo.org/)に出展したい気がするので、協力者ゆるぼ
