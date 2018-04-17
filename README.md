@@ -7,12 +7,14 @@
 ## 予定
 - [シラバス](syllabus.md)の確認
 - 春休み中の話題
-  - 第2回Unity1週間ゲームジャムミートアップに参加
+  - [第2回Unity1週間ゲームジャムミートアップに参加](http://lycoris102.hatenablog.com/entry/2018/03/19/085609)
+  - [Unityもくもく勉強会×2DGameKit会](https://weeyble-game.connpass.com/event/83688/)
   - [あたりの動画](https://dat17.github.io/gp2/images/atari.html)
   - [Voxelorer](https://am1.jp/games/voxelorer/)
   - [Phaser3のドキュメント作成](http://am1tanaka.hatenablog.com/entry/2018/04/10/221101)
   - 体験講義用のネットワークゲーム
   - [デジゲー博](http://digigame-expo.org/)に出展したい気がするので、協力者ゆるぼ
+  - [ゲームデザイン講習会「ゲームの本質が理解できる2つの黄金律」](https://weeyble-game.connpass.com/event/84721/)に出席予定
 - テーマ決め
 - 毎週の記事のまとめ方
 - 体験講義用のネットゲーム例の動作確認
