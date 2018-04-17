@@ -3,6 +3,8 @@
 # 1回目(4/18)
 ## 話題
 - [バンダイナムコが起業家支援「アクセラレータ」開始　玩具、AI、VR、IoTなどの事業募集](http://www.itmedia.co.jp/news/articles/1804/17/news067.html)
+- [Google&CyArk. 世界中の著名な史蹟や遺跡を3Dモデルで保存、その中を歩き回れるサービス](https://artsandculture.google.com/project/cyark)
+  - [紹介記事](https://jp.techcrunch.com/2018/04/17/2018-04-16-google-initiative-looks-to-preserve-walk-able-copies-of-earths-historical-sites-on-the-web/)
 
 ## 予定
 - [シラバス](syllabus.md)の確認
