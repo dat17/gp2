@@ -2,7 +2,7 @@
 
 # 1回目(4/18)
 ## 話題
-- http://www.itmedia.co.jp/news/articles/1804/17/news067.html
+- [バンダイナムコが起業家支援「アクセラレータ」開始　玩具、AI、VR、IoTなどの事業募集](http://www.itmedia.co.jp/news/articles/1804/17/news067.html)
 
 ## 予定
 - [シラバス](syllabus.md)の確認
