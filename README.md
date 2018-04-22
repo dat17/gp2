@@ -7,7 +7,7 @@
 - [フレンズひらたソフト. よくわかるPhotonの仕組みハンズオン！](http://friends-hirata-soft.com/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8Bphoton%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%EF%BC%81/)
   - [[秋葉原] Unity x Photonハンズオン「Photonの仕組みを知ろう編」※初心者向け](https://weeyble-game.connpass.com/event/85277/?utm_campaign=new_event_links_to_group_member&utm_source=notifications&utm_medium=email&utm_content=text_link)のイベントに関連する資料です。ちょくちょく開催されているようなので、興味ある人は参加をおススメします
 - [setchi’s blog. 「楽しい！Unityシェーダーお絵描き入門！」という講演をしました](http://setchi.hatenablog.com/entry/2018/04/15/195928)
-
+- [小林 信行. CEDEC2017 アーティストのためのリアルタイムシェーダー学習法](https://www.slideshare.net/nyaakobayashi/cedec2017)
 
 ## 予定
 - 活動報告と次の作業の確認
