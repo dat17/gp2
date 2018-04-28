@@ -1,7 +1,8 @@
 # 2018年度 ゲームプログラミング2
 
-# 2回目(4/25)
+# 2回目(5/2)
 ## 話題
+- [次回Unity1週間ゲームジャムは6/4から](https://unityroom.com/unity1weeks)
 - [++C++; // 未確認飛行 C. アルゴリズムとデータ構造](http://ufcpp.net/study/algorithm/)
 - [【お題にチャレンジ】あなたの欲しいアセットの50%分が手に入る！？アセットバウチャー総額 『$1,000（約10万円）＋α』山分けプレゼント](http://www.asset-sale.net/entry/ChallengeEvent180417)\
 - [フレンズひらたソフト. よくわかるPhotonの仕組みハンズオン！](http://friends-hirata-soft.com/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8Bphoton%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%EF%BC%81/)
@@ -9,9 +10,13 @@
 - [setchi’s blog. 「楽しい！Unityシェーダーお絵描き入門！」という講演をしました](http://setchi.hatenablog.com/entry/2018/04/15/195928)
 - [小林 信行. CEDEC2017 アーティストのためのリアルタイムシェーダー学習法](https://www.slideshare.net/nyaakobayashi/cedec2017)
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+- [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
 
 ## 予定
-- 活動報告と次の作業の確認
+- 田中の成果物
+  - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
+  - Unity Analyticsの組み込み手順ブログ
+- 各自、気になったニュース、活動報告、次の作業の発表
 
 
 # 1回目(4/18)
