@@ -17,7 +17,7 @@
 ## 予定
 - 田中の成果物
   - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
-  - Unity Analyticsの組み込み手順ブログ
+  - Unity Analyticsの組み込み手順ブログの続きをやる
 - 各自、気になったニュース、活動報告、次の作業の発表
 
 
