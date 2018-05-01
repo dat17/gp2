@@ -1,9 +1,13 @@
 # 2018年度 ゲームプログラミング2
 
 # 2回目(5/2)
+## 成果と目標の共有会
+- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
+
 ## 話題
 - [次回Unity1週間ゲームジャムは6/4から](https://unityroom.com/unity1weeks)
 - [青木とと. Unity/ゲーム制作のローカルコミュニティを集約するScrapboxを作成しました ](http://lycoris102.hatenablog.com/entry/2018/04/30/204940)
+- [Yurie Shiratori. 任天堂デザインの輪郭 / UI Crunch #13 娯楽のUI イベントレポート](https://note.mu/shiratoriyurie/n/nc9d87c8220dd)
 - [++C++; // 未確認飛行 C. アルゴリズムとデータ構造](http://ufcpp.net/study/algorithm/)
 - [【お題にチャレンジ】あなたの欲しいアセットの50%分が手に入る！？アセットバウチャー総額 『$1,000（約10万円）＋α』山分けプレゼント](http://www.asset-sale.net/entry/ChallengeEvent180417)\
 - [フレンズひらたソフト. よくわかるPhotonの仕組みハンズオン！](http://friends-hirata-soft.com/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8Bphoton%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%EF%BC%81/)
@@ -18,8 +22,6 @@
 - 田中の成果物
   - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
   - Unity Analyticsの組み込み手順ブログの続きをやる
-- 各自、気になったニュース、活動報告、次の作業の発表
-
 
 # 1回目(4/18)
 ## 話題
