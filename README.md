@@ -1,5 +1,19 @@
 # 2018年度 ゲームプログラミング2
 
+# 3回目(5/9)
+## 成果と目標の共有会
+- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
+
+## 話題
+- [スーパーマリオオデッセイのオープニングデモの絵コンテ](https://mobile.twitter.com/mario_odysseyJP/status/993244262958592000)
+- [ascii.jp. Build 2018開幕、エッジAIで進化した新Kinect「Project Kinect for Azure」発表](http://ascii.jp/elem/000/001/673/1673205/)
+- [カン神巫女 -KAMIKO- @Kan_Kikuchi . VRのシェア](https://mobile.twitter.com/Kan_Kikuchi/status/993417690055294977)
+- [株式会社マイナビ. ノンデザイナーズ・デザインブックのキャンペーン](https://book.mynavi.jp/nddb/)
+  - 購入したら応募できるキャンペーン。9月まで
+- [WeeybleGame. 5/27 [秋葉原] ゲームデザイン講習会「ゲームの本質が理解できる2つの黄金律」](https://weeyble-game.connpass.com/event/87139/)
+- [サポーターズCoLab勉強会. 楽しい！Unityシェーダーお絵描き入門！](https://docs.google.com/presentation/d/1NMhx4HWuNZsjNRRlaFOu2ysjo04NgcpFlEhzodE8Rlg/edit#slide=id.p)
+- [テラシュールブログ. Unity初心者が知っておくと少しだけ幸せになれる、シーンにオブジェクトを配置する時に使える18のTips+10](http://tsubakit1.hateblo.jp/entry/2015/04/21/031048)
+
 # 2回目(5/2)
 ## 成果と目標の共有会
 - 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
