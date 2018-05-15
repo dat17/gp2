@@ -12,6 +12,7 @@
 - [Tatsuo Sakamoto. プログラマ・エンジニアを評価する方法](https://t.co/v41uWhAzcw?amp=1)
 - [hicc 患者長ひっく. x0y0pxFreeFont](https://mobile.twitter.com/hicchicc/status/994809311644868609)
   - 良さそうなフォント
+- [LITALICO Inc. SOCIAL FIGHTER AWARD](https://socialfighter.jp/)
 
 # 3回目(5/9)
 ## 成果と目標の共有会
