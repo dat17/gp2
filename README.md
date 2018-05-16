@@ -10,7 +10,7 @@
 ## 話題
 - [VR Consortium](http://vrc.or.jp/award2018/)
 - [Tatsuo Sakamoto. プログラマ・エンジニアを評価する方法](https://t.co/v41uWhAzcw?amp=1)
-- [hicc 患者長ひっく. x0y0pxFreeFont](https://mobile.twitter.com/hicchicc/status/994809311644868609)
+- [hicc 患者長ひっく. x0y0pxFreeFont](http://www17.plala.or.jp/xxxxxxx/00ff/)
   - 良さそうなフォント
 - [LITALICO Inc. SOCIAL FIGHTER AWARD](https://socialfighter.jp/)
 
