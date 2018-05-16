@@ -1,5 +1,18 @@
 # 2018年度 ゲームプログラミング2
 
+# 5回目(5/23)
+## 成果と目標の共有会
+- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
+
+## 話題
+- （誰か発表すると思うけど)WeeybleでUnity1週間ゲームジャムの[もくもく会](https://weeyble-game.connpass.com/event/87052/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)が開催週に連続で行われます
+  - 開催日: 6/3(日), 4(月), 6(水), 8(金), 10(日)
+
+## プランナー向け
+- プランナーの場合、開発が不要なのでコンテストへの参加が容易です。自分で見つけたり、以下のようなものへの応募を検討してください
+  - シューティングバー MAX BULLET用企画
+  - [LITALICO Inc. SOCIAL FIGHTER AWARD](https://socialfighter.jp/)
+
 # 4回目(5/16)
 ## 成果と目標の共有会
 - 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
