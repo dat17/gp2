@@ -8,6 +8,7 @@
 - （誰か発表すると思うけど)WeeybleでUnity1週間ゲームジャムの[もくもく会](https://weeyble-game.connpass.com/event/87052/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)が開催週に連続で行われます
   - 開催日: 6/3(日), 4(月), 6(水), 8(金), 10(日)
   - 6/3でLTやります
+- [paiza開発日誌. ゲーム開発ってどんな仕事？動画でわかる「ゲームエンジニア入門」公開中](https://paiza.hatenablog.com/entry/2018/05/22/%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%A3%E3%81%A6%E3%81%A9%E3%82%93%E3%81%AA%E4%BB%95%E4%BA%8B%EF%BC%9F%E5%8B%95%E7%94%BB%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%8C%E3%82%B2%E3%83%BC)
 - [電ファミニコゲーマー. 『FFタクティクス』松野泰己✕『FFXIV』吉田直樹対談──もはやゲームに作家性は不要なのか？ 企画者に求められるたったひとつの資質とは？](http://news.denfaminicogamer.jp/interview/180522/3)
 
 
