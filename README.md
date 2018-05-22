@@ -7,6 +7,9 @@
 ## 話題
 - （誰か発表すると思うけど)WeeybleでUnity1週間ゲームジャムの[もくもく会](https://weeyble-game.connpass.com/event/87052/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=text_detail_url)が開催週に連続で行われます
   - 開催日: 6/3(日), 4(月), 6(水), 8(金), 10(日)
+  - 6/3でLTやります
+- [電ファミニコゲーマー. 『FFタクティクス』松野泰己✕『FFXIV』吉田直樹対談──もはやゲームに作家性は不要なのか？ 企画者に求められるたったひとつの資質とは？](http://news.denfaminicogamer.jp/interview/180522/3)
+
 
 ## プランナー向け
 - プランナーの場合、開発が不要なのでコンテストへの参加が容易です。自分で見つけたり、以下のようなものへの応募を検討してください
