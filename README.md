@@ -15,7 +15,6 @@
 ## プランナー向け
 - プランナーの場合、開発が不要なのでコンテストへの参加が容易です。自分で見つけたり、以下のようなものへの応募を検討してください
   - シューティングバー MAX BULLET用企画
-  - [LITALICO Inc. SOCIAL FIGHTER AWARD](https://socialfighter.jp/)
 
 # 4回目(5/16)
 ## 成果と目標の共有会
