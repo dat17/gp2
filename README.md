@@ -10,17 +10,18 @@
 - アセットストアで方向性の近いものを探す
 - Trelloにメモ
 
-# 6回目(5/30)
-## 成果と目標の共有会
-- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
-
 ## 話題
+- [テラシュールブログ. 【Unity】ドット絵でゲームを作る時に使いたい、ピクセルパーフェクトなスプライト表現するPixelPerfectCamera](http://tsubakit1.hateblo.jp/entry/2018/05/29/003530)
 - [Unity Ads、Unity Analyticsを利用する開発者・パブリッシャー向けGDPR関連情報](https://blogs.unity3d.com/jp/2018/05/24/gdpr-monetization-services-jp/)
 - [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
 - [3D人. FREE Hard Surface KitBash Vol 3 - 商用ＯＫなハードサーフェスキットバッシュパック（OBJ収録）第３弾が無料公開！](http://3dnchu.com/archives/free-hard-surface-kitbash-vol-3/)
 - [1クリックで、IE, Edgeをはじめ、さまざまなブラウザ・スマホなどの表示確認ができるChromeの便利な機能拡張](https://coliss.com/articles/browser/chrome/multi-browsers-and-devices-screenshots.html?utm_content=buffer0ec66&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [yashinut. VRのマルチプラットフォーム開発について](https://www.slideshare.net/yashinut/vr-multi-platformdevelopment)
 - [@mao_. 【Unity】ECS + JobSystemで10万個のドカベンロゴをアニメーションさせてみた](https://qiita.com/mao_/items/4951c4bf0c82de98b5d6)
+
+# 6回目(5/30)
+## 成果と目標の共有会
+- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
 
 ## シューティングバー企画
 - 企画概要の確認
