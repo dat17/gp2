@@ -1,12 +1,22 @@
 # 2018年度 ゲームプログラミング2
 
 # 7回目(6/6)
-## 成果と目標の共有会(一人10分を目安)
+## 成果と目標の共有会
+- 一人10分を目安
 - 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
 - 1週間ゲームジャム中間報告(やってる人は発表に混ぜる)
+  - まとめページを作るので、unityroomに登録しておき、URLを知らせてください
+
+## 9回目の予告
+### 中間のまとめ - 成果物ページをまとめて発表
+- 今すぐに企業に見せられるものを、成果物としてまとめる(ポートフォリオの再構成)
+- クオリティ重視でコンパクトに
+- 作業中のものは最後にリンクを貼るに留め、成果物に混ぜないこと
 
 ## シューティングバー企画
 - 企画概要の確認
+  - スナイパー
+  - 音ゲー
 - アセットストアで方向性の近いものを探す
 - Trelloにメモ
 
@@ -19,6 +29,7 @@
 - [1クリックで、IE, Edgeをはじめ、さまざまなブラウザ・スマホなどの表示確認ができるChromeの便利な機能拡張](https://coliss.com/articles/browser/chrome/multi-browsers-and-devices-screenshots.html?utm_content=buffer0ec66&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [yashinut. VRのマルチプラットフォーム開発について](https://www.slideshare.net/yashinut/vr-multi-platformdevelopment)
 - [@mao_. 【Unity】ECS + JobSystemで10万個のドカベンロゴをアニメーションさせてみた](https://qiita.com/mao_/items/4951c4bf0c82de98b5d6)
+
 
 # 6回目(5/30)
 ## 成果と目標の共有会
@@ -98,7 +109,7 @@
 - [setchi’s blog. 「楽しい！Unityシェーダーお絵描き入門！」という講演をしました](http://setchi.hatenablog.com/entry/2018/04/15/195928)
 - [小林 信行. CEDEC2017 アーティストのためのリアルタイムシェーダー学習法](https://www.slideshare.net/nyaakobayashi/cedec2017)
 
-## 予定
+## 内容
 - 田中の成果物
   - [Unity AssetStoreまとめイベント用に開発したゲーム。音が出るので遊ぶときは音量に注意！](https://unityroom.com/games/tasutosan)
   - Unity Analyticsの組み込み手順ブログの続きをやる
