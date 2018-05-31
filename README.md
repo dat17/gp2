@@ -11,6 +11,7 @@
 - Trelloにメモ
 
 ## 話題
+- [@rana_kualu. 2018年の最先端バックエンドエンジニアになろう](https://qiita.com/rana_kualu/items/19ab559dddbca6674417?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=6f01c33ac3-Qiita_newsletter_313_05_30_2018&utm_medium=email&utm_term=0_e44feaa081-6f01c33ac3-32975205)
 - [テラシュールブログ. 【Unity】ドット絵でゲームを作る時に使いたい、ピクセルパーフェクトなスプライト表現するPixelPerfectCamera](http://tsubakit1.hateblo.jp/entry/2018/05/29/003530)
 - [Unity Ads、Unity Analyticsを利用する開発者・パブリッシャー向けGDPR関連情報](https://blogs.unity3d.com/jp/2018/05/24/gdpr-monetization-services-jp/)
 - [おもちゃラボ. 【Unityシェーダ入門】シェーダだけで描く図形10選](http://nn-hokuson.hatenablog.com/entry/2018/05/24/195206)
