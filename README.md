@@ -5,7 +5,16 @@
 - 一人10分を目安
 - 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
 - 1週間ゲームジャム中間報告(やってる人は発表に混ぜる)
-  - まとめページを作るので、unityroomに登録しておき、URLを知らせてください
+  - まとめページを作りたいので、unityroomに登録しておき、URLを知らせてください
+
+## 8回目予告
+### Unity1週間ゲームジャムまとめ
+- 以下、Googleドキュメントにまとめて、リンクを知らせる
+  - 分量：半ページ
+  - ゲームタイトル
+  - 画像1枚～2枚程度(印刷するのでアニメは不可)
+  - ゲーム概要
+  - URL
 
 ## 9回目の予告
 ### 中間のまとめ - 成果物ページをまとめて発表
@@ -21,6 +30,8 @@
 - Trelloにメモ
 
 ## 話題
+- 日曜はこちらでLTしてきました https://weeyble-game.connpass.com/event/87052/
+- 今日はこちらに参加してきます https://weeyble-game.connpass.com/event/87961/
 - [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
 - [@rana_kualu. 2018年の最先端バックエンドエンジニアになろう](https://qiita.com/rana_kualu/items/19ab559dddbca6674417?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=6f01c33ac3-Qiita_newsletter_313_05_30_2018&utm_medium=email&utm_term=0_e44feaa081-6f01c33ac3-32975205)
 - [テラシュールブログ. 【Unity】ドット絵でゲームを作る時に使いたい、ピクセルパーフェクトなスプライト表現するPixelPerfectCamera](http://tsubakit1.hateblo.jp/entry/2018/05/29/003530)
