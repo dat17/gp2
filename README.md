@@ -30,6 +30,9 @@
 - Trelloにメモ
 
 ## 話題
+- [ITmedia. Microsoft、GitHubを75億ドルで買収　正式発表](http://www.itmedia.co.jp/news/articles/1806/05/news056.html)
+  - https://blog.github.com/2018-06-04-github-microsoft/
+  - GitLabに流れているというニュースもみたけど [Publickey. GitLab.comが操作ミスで本番データベース喪失。5つあったはずのバックアップ手段は役立たず、頼みの綱は6時間前に偶然取ったスナップショット](https://publickey1.jp/blog/17/gitlabcom56.html)
 - 日曜はこちらでLTしてきました https://weeyble-game.connpass.com/event/87052/
 - 今日はこちらに参加してきます https://weeyble-game.connpass.com/event/87961/
 - [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
