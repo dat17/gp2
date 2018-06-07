@@ -1,14 +1,11 @@
 # 2018年度 ゲームプログラミング2
 
-# 7回目(6/6)
+# 8回目(6/13)
 ## 成果と目標の共有会
 - 一人10分を目安
 - 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
-- 1週間ゲームジャム中間報告(やってる人は発表に混ぜる)
-  - まとめページを作りたいので、unityroomに登録しておき、URLを知らせてください
 
-## 8回目予告
-### Unity1週間ゲームジャムまとめ
+## Unity1週間ゲームジャムまとめ
 - 以下、Googleドキュメントにまとめて、リンクを知らせる
   - 分量：半ページ
   - ゲームタイトル
@@ -30,12 +27,6 @@
 - Trelloにメモ
 
 ## 話題
-- [ITmedia. Microsoft、GitHubを75億ドルで買収　正式発表](http://www.itmedia.co.jp/news/articles/1806/05/news056.html)
-  - https://blog.github.com/2018-06-04-github-microsoft/
-  - GitLabに流れているというニュースもみたけど [Publickey. GitLab.comが操作ミスで本番データベース喪失。5つあったはずのバックアップ手段は役立たず、頼みの綱は6時間前に偶然取ったスナップショット](https://publickey1.jp/blog/17/gitlabcom56.html)
-- 日曜はこちらでLTしてきました https://weeyble-game.connpass.com/event/87052/
-- 今日はこちらに参加してきます https://weeyble-game.connpass.com/event/87961/
-- [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
 - [@rana_kualu. 2018年の最先端バックエンドエンジニアになろう](https://qiita.com/rana_kualu/items/19ab559dddbca6674417?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=6f01c33ac3-Qiita_newsletter_313_05_30_2018&utm_medium=email&utm_term=0_e44feaa081-6f01c33ac3-32975205)
 - [テラシュールブログ. 【Unity】ドット絵でゲームを作る時に使いたい、ピクセルパーフェクトなスプライト表現するPixelPerfectCamera](http://tsubakit1.hateblo.jp/entry/2018/05/29/003530)
 - [Unity Ads、Unity Analyticsを利用する開発者・パブリッシャー向けGDPR関連情報](https://blogs.unity3d.com/jp/2018/05/24/gdpr-monetization-services-jp/)
@@ -45,6 +36,21 @@
 - [yashinut. VRのマルチプラットフォーム開発について](https://www.slideshare.net/yashinut/vr-multi-platformdevelopment)
 - [@mao_. 【Unity】ECS + JobSystemで10万個のドカベンロゴをアニメーションさせてみた](https://qiita.com/mao_/items/4951c4bf0c82de98b5d6)
 
+
+# 7回目(6/6)
+## 成果と目標の共有会
+- 一人10分を目安
+- 各自、気になったニュース、活動報告、次の作業の発表(以下に同じものが掲載されていても、みなさんの発表を優先します)
+- 1週間ゲームジャム中間報告(やってる人は発表に混ぜる)
+  - まとめページを作りたいので、unityroomに登録しておき、URLを知らせてください
+
+## 話題
+- [ITmedia. Microsoft、GitHubを75億ドルで買収　正式発表](http://www.itmedia.co.jp/news/articles/1806/05/news056.html)
+  - https://blog.github.com/2018-06-04-github-microsoft/
+  - GitLabに流れているというニュースもみたけど [Publickey. GitLab.comが操作ミスで本番データベース喪失。5つあったはずのバックアップ手段は役立たず、頼みの綱は6時間前に偶然取ったスナップショット](https://publickey1.jp/blog/17/gitlabcom56.html)
+- 日曜はこちらでLTしてきました https://weeyble-game.connpass.com/event/87052/
+- 今日はこちらに参加してきます https://weeyble-game.connpass.com/event/87961/
+- [株式会社ハシラス スタジオ移転記念パーティー（開砦式）1日目](https://hashilus.connpass.com/event/89998/?utm_campaign=event_participate_to_follower&utm_medium=twitter&utm_source=notifications)
 
 # 6回目(5/30)
 ## 成果と目標の共有会
