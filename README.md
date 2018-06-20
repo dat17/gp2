@@ -8,6 +8,12 @@
   - クオリティ重視でコンパクトに
   - 作業中のものは最後にリンクを貼るに留め、成果物に混ぜないこと
 
+## まとめ
+- 何か並べる場合、時間があるもの順にする
+- 日付を書く
+- フォントや言い回しの統一、誤字脱字に気を配る
+  - 大学生は論文を書くので、これを厳しくトレーニングしている
+
 ## 話題
 - [Unity1DayChangeJam 今日から開始](https://twitter.com/search?f=tweets&vertical=default&q=%23unity1daychangejam&src=typd)
 - [UI Crunch #13 娯楽のUI - by Nintendo -](https://www.youtube.com/watch?v=eAqsI8W7_jQ&feature=youtu.be)
