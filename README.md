@@ -7,6 +7,9 @@
 
 ## 話題
 - VR用PCでML-Agentのデモ
+- [ADX2 LE](http://www.adx2le.com/index.html)
+  - ゲーム開発用サウンドエンジン
+- [CRI ADX2 Portal. より伝わるサウンド発注リストの書き方（ゲームの楽曲編）](https://criware.info/sound_order_list_01/)
 
 
 # 9回目(6/20)
