@@ -5,6 +5,7 @@
 - 一人10分を目安
 - ポートフォリオに進捗があれば
 - 就活報告
+- BitBucketによるプライベートリポジトリーの作成と、チーム開発の手順
 
 ## 話題
 - [Weeyble. 7/5 ３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/91638)
