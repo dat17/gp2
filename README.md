@@ -9,6 +9,8 @@
 
 ## 話題
 - [Weeyble. 7/5 ３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/91638)
+- pixiv. VRoid https://vroid.pixiv.net/
+  - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
 
 
 # 10回目(6/27)
