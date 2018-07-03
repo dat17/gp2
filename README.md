@@ -8,6 +8,7 @@
 - BitBucketによるプライベートリポジトリーの作成と、チーム開発の手順
 
 ## 話題
+- [デジゲー博 募集要項発表](http://digigame-expo.org/)
 - [Weeyble. 7/5 ３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/91638)
 - pixiv. VRoid https://vroid.pixiv.net/
   - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
