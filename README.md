@@ -8,7 +8,14 @@
   - インターンが決まったとか、説明会行ったとか、面接の予定、結果待ちなど現状報告
 
 ## 話題
+- [VRoidプロジェクトで3Dの創作の未来を一緒につくるエンジニア募集](https://bosyu.me/users/norio/wants/3182)
 - [cluster. 銭じゃなくてデバイスも投げよう！学生向け投げデバイス会 7/14](https://cluster.mu/app/rooms/a51c73a0-525d-4640-8483-ec88b31437c2/)
+- [Weeyble. Unity３Hカジュアルゲームハッカソン](https://weeyble-game.connpass.com/event/94407/?utm_campaign=event_publish_to_follower&utm_medium=twitter&utm_source=notifications)
+- [フロントエンドの地獄. 日本語のフリーフォントをまとめて試せるサイト「 #ためしがき 」をなんで作ったのかと技術的な話](https://nabettu.hatenablog.com/entry/tameshigaki)
+- [ゼロから学ぶディープラーニング推論](http://jellyware.jp/movidius/)
+- [電子演劇部. 新ノベルゲームエンジン「SKYNovel」を発表します。](http://famibee.blog38.fc2.com/blog-entry-594.html)
+- [ヤフー株式会社が運営するLODGEにてSTYLY 3Dスキャナーを無料開放](https://prtimes.jp/main/html/rd/p/000000033.000023281.html)
+- [まゆたまガジェット開発逆引き辞典. 時短でUnityちゃんトゥーンシェーダを使う](http://prince9.hatenablog.com/entry/2018/07/03/203932)
 
 # 11回目(7/4)
 ## 成果と目標の共有会
