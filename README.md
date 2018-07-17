@@ -11,6 +11,19 @@
 - 現在決定している今後の予定(発表済みのものも再度まとめておく)
 - 夏休みの目標
 
+## 話題
+- [#マンガでわかるUnity 第1話「Unity ってなあに？」](https://unity-manga.hatenablog.com/entry/01)
+- [湊川あい. 実践！イラストでわかりやすく表現する技術](https://docs.google.com/presentation/d
+- [空飛ぶロボットのつくりかた. 数学のお勉強（1）～クオータニオン～](http://robonchu.hatenablog.com/entry/2018/07/15/211951)
+/1ZZtmkGreX_vH0k4140PPs4e5DFBLz0Nm5PI3nrjZS-c/edit#slide=id.g3d0013c82c_0_1)
+- [neue.cc. UniTask - Unity + async/awaitの完全でハイパフォーマンスな統合](http://neue.cc/2018/07/12_567.html)
+- [XJINE. Unity Shader Programming Vol.01 (v.0.9.9)](https://xjine.booth.pm/items/931290)
+- [Ryota Takasaki. 出でよ！ゲームUIデザイナー](https://note.mu/ryotataksaki/n/ne3eb7b2e283e)
+- [@kuri_takayu. CSSプロパティの記述順チートシート](https://mobile.twitter.com/kuri_takayu/status/1019027645361606656)
+- [渡邊 達明. Vue.jsとFirebaseで作るミニWebサービス](https://www.amazon.co.jp/Vue-js%E3%81%A8Firebase%E3%81%A7%E4%BD%9C%E3%82%8B%E3%83%9F%E3%83%8BWeb%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%88NextPublishing%EF%BC%89-%E6%B8%A1%E9%82%8A-%E9%81%94%E6%98%8E-ebook/dp/B07F8L6KVS)
+- [gamesindustry.biz. 【GTMF 2018】 個人レベルで使え，視聴者が番組にも突撃できる「バーチャルキャスト」の取り組みとは](https://twitter.com/GamesIndustryJE/status/1019139996320608257)
+- [Mush memo. クリエイターが知っておくべき著作権のこと](https://mushmemo.com/2018/07/12/creator-tyosakuken/)
+- [gamesindustry.biz. モバイル広告のAppLovin，パブリッシング事業を開始。ゲームアプリコンテストも開催](http://jp.gamesindustry.biz/article/1807/18071301/)
 
 # 12回目(7/11)
 ## 成果と目標の共有会
