@@ -13,6 +13,7 @@
 - [「逆転オセロニア」でプログラミング学習、DeNAが無償公開　小学生でも「ゲーム機能の裏側分かりやすく」](http://www.itmedia.co.jp/news/articles/1808/28/news120.html?utm_content=buffer0efc6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ニムサイト. VRChatはVR機器がなくても参加できますよ！](http://nimushiki.com/2018/08/27/1082/)
 - [研究員ケミカル. 【VRchat】初心者向けワールド作成講座【チュートリアル】](https://www.youtube.com/watch?v=W9Mza1tEOl8&feature=youtu.be)
+- [Ryuki Ishii. Vivoxのゲーム内ボイスチャット機能、インディー開発者でも利用できる無料版の提供開始](https://jp.automaton.am/articles/newsjp/20180907-75684/)
 
 ## 予定
 - DATフェスタ作業
