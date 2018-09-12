@@ -13,6 +13,7 @@
 - [ニムサイト. VRChatはVR機器がなくても参加できますよ！](http://nimushiki.com/2018/08/27/1082/)
 - [研究員ケミカル. 【VRchat】初心者向けワールド作成講座【チュートリアル】](https://www.youtube.com/watch?v=W9Mza1tEOl8&feature=youtu.be)
 - [Ryuki Ishii. Vivoxのゲーム内ボイスチャット機能、インディー開発者でも利用できる無料版の提供開始](https://jp.automaton.am/articles/newsjp/20180907-75684/)
+- [THE LOOKING GLASSの体験会](https://www.facebook.com/events/326776934758970/)
 
 ## 注意！！
 Chromeの同期設定などにより、Googleから手動でログアウトしないと、Chromeを閉じてもログイン状態が維持されるようになりました！ご注意ください！
