@@ -6,7 +6,6 @@
 # 15回目(9/12)
 ## 話題
 - [1週間ゲームジャムで人気作品に入りました！](https://unityroom.com/unity1weeks/10)
-  - もう落ちてると思いますが...
 - [操作説明に使えるアセットの紹介](https://mobile.twitter.com/96yuuki331/status/1037314989923557380)
 - [すごいARのデモ](https://mobile.twitter.com/kajiken0630/status/1037877064055934976)
 - [手書きのWebページのイラストをAIでHTMLに自動変換するMicrosoftのサービス](https://note.mu/rdlabo/n/nced2ff4cf64b?utm_content=buffer0541d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -14,6 +13,9 @@
 - [ニムサイト. VRChatはVR機器がなくても参加できますよ！](http://nimushiki.com/2018/08/27/1082/)
 - [研究員ケミカル. 【VRchat】初心者向けワールド作成講座【チュートリアル】](https://www.youtube.com/watch?v=W9Mza1tEOl8&feature=youtu.be)
 - [Ryuki Ishii. Vivoxのゲーム内ボイスチャット機能、インディー開発者でも利用できる無料版の提供開始](https://jp.automaton.am/articles/newsjp/20180907-75684/)
+
+## 注意！！
+Chromeの同期設定などにより、Googleから手動でログアウトしないと、Chromeを閉じてもログイン状態が維持されるようになりました！ご注意ください！
 
 ## 予定
 - DATフェスタ作業
