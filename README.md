@@ -3,6 +3,9 @@
 # DATフェスタ
 - 601教室
 
+# Unity1週間ゲームジャム　新年会
+- 1/12(土)予定
+
 # 後期5回目
 ## 作品展までの日程
 - 10/3
@@ -15,6 +18,8 @@
 
 ## 話題
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
+- [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
+
 
 ## 予定
 - 仕上げ
