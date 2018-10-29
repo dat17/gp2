@@ -17,6 +17,7 @@
 - 11/9,10 作品展
 
 ## 話題
+- [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 - [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
 
