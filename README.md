@@ -18,12 +18,12 @@
 
 ## 話題
 - [ブルガリアコントローラーに対応できるゲームの募集](https://twitter.com/ni26mu/status/1055088599878647808)
+  - プレゼントは無くなった模様だが、1週間ゲームジャム新年会などに向けて活動するのはありそう
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 - [Unity1週間ゲームジャム新年会について、いただいたコメント](https://twitter.com/lycoris102/status/1056183914794864641)
 
-
 ## 予定
-- 仕上げ
+- 来週は手伝えないので、今週中に不明点を解決しておくこと
 
 
 # 後期4回目
