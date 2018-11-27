@@ -6,6 +6,24 @@
 # Unity1週間ゲームジャム　新年会
 - 1/12(土)予定
 
+# 後期8回目
+## 話題
+- 1週間ゲームジャム1年生作品 試遊会。いいねと何かコメントを
+  - https://t.co/R3RCUEE5Xn
+  - https://unityroom.com/games/gj201811
+  - https://t.co/PhSwSXMuc37
+- アドベントカレンダー
+  - [Voxel Advent Calendar 2018 - Adventar](https://twitter.com/urabe_rocinante/status/1066909658340712448)
+  - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
+  - [Qiita Unityアドベントカレンダー#3](https://qiita.com/advent-calendar/2018/unity3)
+
+## 予定
+- 発表の後、各自方針の確認と質疑応答
+
+
+# 後期7回目
+- 各自作業
+
 # 後期6回目
 ## 話題
 - [Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
