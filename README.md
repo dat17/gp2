@@ -10,6 +10,7 @@
 ## 話題
 - [GitHubが無料版でプライベートリポジトリーが使えるようになった](https://github.com/pricing)
 - [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
+- [ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
 
 
 ## 予定
